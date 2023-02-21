@@ -65,3 +65,8 @@ button {
     font-size: 16px;;
 }
 
+.pearphone {
+    height: auto;
+    width: 400px;
+    padding: 8px;
+}
