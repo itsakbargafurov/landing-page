@@ -75,4 +75,5 @@ button {
     height: auto;
     width: 400px;
     padding: 16px 0px;
+    border-radius: 75px;
 }
