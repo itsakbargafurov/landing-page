@@ -103,3 +103,16 @@ button {
     flex-basis: 700px;
     padding: 24px;
 }
+
+.explore {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.explore-text {
+    display: flex;
+    flex-direction: column;
+    
+}
