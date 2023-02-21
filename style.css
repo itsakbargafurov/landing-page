@@ -89,9 +89,17 @@ button {
 }
 
 .quote {
+    display: flex;
+    justify-content: center;
     background-color: #e5e7eb;
     color: #1f2937;
     font-size: 36px;
     font-style: italic;
     text-align: center;
+}
+
+.quote>p {
+    display: flex;
+    flex-basis: 700px;
+    padding: 24px;
 }
