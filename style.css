@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -86,4 +86,12 @@ button {
     align-items: center;
     gap: 4px;
     padding: 8px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    text-align: center;
 }
