@@ -151,12 +151,19 @@ a {
 .cards-images {
     display: flex;
     flex-direction: row;
-    gap: 48px;
+    gap: 84px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
 }
 
 .box {
-    height: 75px;
-    width: 75px;
+    height: 100px;
+    width: 100px;
     border: solid;
     border-radius: 8px;
     color: #3882f6;
