@@ -16,7 +16,7 @@ a {
     color: white;
 }
 
-.header>button {
+.head3>button {
     background-color: #3882f6;
     color: white;
     border-radius: 16px;
@@ -119,4 +119,16 @@ a {
     border-radius: 8px;
     background-color: #3882f6;
     color: white;
+}
+
+.explore-container>button {
+    background-color: #3882f6;
+    color: white;
+    border-color: white;
+    border-radius: 16px;
+    padding: 4px 24px;
+}
+
+.explore-big {
+    font-size: 24px;
 }
