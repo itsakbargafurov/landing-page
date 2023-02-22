@@ -16,7 +16,7 @@ a {
     color: white;
 }
 
-button {
+.header>button {
     background-color: #3882f6;
     color: white;
     border-radius: 16px;
@@ -107,13 +107,13 @@ button {
 
 .explore {
     display: flex;
-    justify-content: space-evenly;
-    padding: 64px;
-    font-size: 16px;
-    font-weight: bold;
+    justify-content: center;
 }
 
-.explore-text {
+.explore-container {
     display: flex;
-    flex-direction: column;
+    padding: 16px;
+    margin: 64px;
+    background-color: #3882f6;
+    color: white;
 }
