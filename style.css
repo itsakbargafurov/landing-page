@@ -143,10 +143,21 @@ a {
 }
 
 .products {
-    padding: 12px;
+    padding: 24px;
+    font-size: 36px;
+    font-weight: bold;
 }
 
 .cards-images {
     display: flex;
     flex-direction: row;
+    gap: 48px;
+}
+
+.box {
+    height: 75px;
+    width: 75px;
+    border: solid;
+    border-radius: 8px;
+    color: #3882f6;
 }
